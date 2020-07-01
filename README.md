@@ -22,3 +22,6 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### 完成品
+see [tesso.netlify.app](https://tesso.netlify.app/)
